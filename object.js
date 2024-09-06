@@ -71,6 +71,6 @@ console.log(arr[3].passingYear);
 
 console.log(arr[4]);
 
-console.log(arr[4].dist);
+console.log(arr[4].dist)
 
 
