@@ -36,7 +36,6 @@
 // }
 //  console.log(arr);
 
-
 let arr = [ 1,2,3,4,5,6,78]
 let temp = new Array(arr.length);
 
