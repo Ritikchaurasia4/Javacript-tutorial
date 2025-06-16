@@ -13,3 +13,4 @@ for(let i=2;i<arr.length;i++){
     }
 }
 console.log(sMax); // Output the second largest element
+
